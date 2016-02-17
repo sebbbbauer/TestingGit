@@ -1,4 +1,4 @@
 <?php
 
 echo 'Nothing here!';
-echo 'Really nothing here! Go away!';
+echo 'Really nothing here!';
